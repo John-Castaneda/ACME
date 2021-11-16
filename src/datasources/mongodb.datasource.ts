@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'mongodb',
   connector: 'mongodb',
-  url: 'mongodb+srv://prog_web:JettaHen2022echo "# ACME" >> README.md@clusterprogweb.eebdt.mongodb.net/SmartVehicleBD?retryWrites=true&w=majority',
+  url: 'mongodb+srv://Acme:Acme1234*@cluster0.2vx1v.mongodb.net/test',
   host: '',
   port: 0,
   user: '',
